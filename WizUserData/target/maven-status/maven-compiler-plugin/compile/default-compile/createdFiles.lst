@@ -1,0 +1,5 @@
+com\userData\UserDataConfiguration.class
+com\userData\UserDataController.class
+com\userData\MongoService.class
+com\userData\MongoManaged.class
+com\userData\UserDataApplication.class

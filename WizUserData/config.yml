@@ -1,0 +1,10 @@
+logging:
+  level: INFO
+  loggers:
+    com.userData: DEBUG
+    
+mongoHost : localhost
+mongoPort : 27017
+mongoDB : assign
+collectionName : login_system
+
